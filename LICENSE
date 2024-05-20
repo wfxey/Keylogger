@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+The following third-party modules are utilized within this software:
+
+1. keyboard - https://github.com/boppreh/keyboard
+   Copyright (c) 2016 BoppreH
+   License: MIT License (https://opensource.org/licenses/MIT)
+
+2. os module - Python Standard Library
+   License: PSF License (https://docs.python.org/3/license.html)
+
+3. logging module - Python Standard Library
+   License: PSF License (https://docs.python.org/3/license.html)
+
+4. datetime module - Python Standard Library
+   License: PSF License (https://docs.python.org/3/license.html)
