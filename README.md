@@ -3,4 +3,4 @@
 ## Description
 This keylogger logs all things you write and saves them in the same directory inside "./logs".
 ## Note
-I don't take any responsibility for things that this program gets used for
+I don't take any responsibility for things that this program gets used for. It's just for experimental reason.
