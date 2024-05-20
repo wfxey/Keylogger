@@ -1,5 +1,5 @@
 # Keylogger
-[![DevSkim](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml) ![License](https://img.shields.io/github/license/wfxey/keylogger.svg)
+[![DevSkim](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml)         ![License](https://img.shields.io/github/license/wfxey/Keylogger.svg)
 
 ![Made with](http://ForTheBadge.com/images/badges/made-with-python.svg) ![Developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ## Description
