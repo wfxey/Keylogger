@@ -14,10 +14,6 @@ This keylogger logs all keystrokes and saves them in the "./logs" directory with
 ## How to use?
 Simply open the executable. To close it, go to the Task Manager and look for "winlogger".
 
-## D&I Logo
-
-![D&I Banner](https://github.com/Ivole32/Mc-Server-Builder/assets/158351052/1ddbd9ff-9783-42d2-9e31-a1f3a1a0b768)
-
 ## Important Note
 This program is provided for educational purposes only. Unauthorized use of this software may violate privacy laws and can result in criminal charges. The developer is not responsible for any misuse of this software.
 
