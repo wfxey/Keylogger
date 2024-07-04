@@ -1,7 +1,7 @@
 # Experimental Keylogger
-[![DevSkim](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml) ![License](https://img.shields.io/github/license/wfxey/Keylogger.svg)
+[![DevSkim](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml) ![License](https://img.shields.io/github/license/wfxey/Keylogger.svg) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 
-![Made with](http://ForTheBadge.com/images/badges/made-with-python.svg) ![Developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)
 
 ## Description
 This keylogger logs all keystrokes and saves them in the "./logs" directory within the same folder. It is intended for educational and experimental purposes only.
