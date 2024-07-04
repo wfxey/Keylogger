@@ -1,5 +1,5 @@
 # Experimental Keylogger
-[![DevSkim](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml) ![License](https://img.shields.io/github/license/wfxey/Keylogger.svg) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+[![DevSkim](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/Keylogger/actions/workflows/devskim.yml) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![License](https://img.shields.io/github/license/wfxey/Keylogger.svg) 
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)
 
